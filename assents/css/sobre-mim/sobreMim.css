@@ -1,0 +1,6 @@
+.sobre-mim {
+    background-color: var(--cinza-medio);
+    color: var(--branco);
+    height: calc(100vh - 3.2rem);
+    text-align: center;
+}
